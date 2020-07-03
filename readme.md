@@ -5,3 +5,4 @@
 - Unmodified
 - Modified
 - Staged
+- Alteração feita pelo computador
