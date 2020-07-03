@@ -5,3 +5,4 @@
 - Unmodified
 - Modified
 - Staged
+- Estado que não existe
